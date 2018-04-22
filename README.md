@@ -1,2 +1,6 @@
-# BotFramework
-Bot Framework で遊ぼうのためのリポジトリ
+# SkypeBot
+SkypeBotで遊ぼうのためのリポジトリ
+
+書籍ではSkypeBotメインで書いていますがSlackなどでも使用できます
+
+質問等ありましたら Twitter@honhotate までお願いします
